@@ -1,12 +1,9 @@
-## Hi there 👋
+## House of Maldorne
 
-<!--
+<p align="center">
+  <img width="300" alt="maldorne logo" src="/logo.svg">
+</p>
 
-**Here are some ideas to get you started:**
+Welcome to the House of Maldorne, a community of open source projects and libraries maintained by the Maldorne family.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We play, host, build, develop and recover old and new retro online games, from muds to roguelikes.
